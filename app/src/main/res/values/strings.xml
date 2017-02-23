@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InfirmaryFinder</string>
+    <string name="start">Find Nearby Hospitals</string>
+    <string name="stop">Stop Location Updates</string>
+    <string name="hurray">A Hospital is nearby</string>
+</resources>
